@@ -1,0 +1,31 @@
+{
+  "name": "micro-next",
+  "version": "1.0.0",
+  "description": "Integrations between Micro and Next.js",
+  "main": "index.js",
+  "repository": "https://github.com/sergiodxa/micro-next.git",
+  "author": "sergiodxa <sergiodxa@gmail.com> (https://sergiodxa.com)",
+  "license": "MIT",
+  "files": [
+    "build/err.js",
+    "build/get.js",
+    "build/server.js",
+    "get.js",
+    "index.js"
+  ],
+  "scripts": {
+    "build": "babel lib --out-dir build"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.26.0",
+    "micro-route": "^2.5.0"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "next": "^4.2.3"
+  },
+  "optionalDependencies": {
+    "next": "^4.2.3"
+  }
+}
