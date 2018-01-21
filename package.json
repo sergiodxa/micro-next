@@ -1,6 +1,6 @@
 {
   "name": "micro-next",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Integrations between Micro and Next.js",
   "main": "index.js",
   "repository": "https://github.com/sergiodxa/micro-next.git",
