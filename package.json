@@ -25,9 +25,9 @@
   "devDependencies": {
     "babel": "6.23.0",
     "babel-cli": "6.26.0",
-    "next": "7.0.3"
+    "next": "9.0.3"
   },
   "peerDependencies": {
-    "next": "^6.0.0 || ^7.0.0"
+    "next": "^6.0.0 || ^7.0.0 || ^9.0.0"
   }
 }
